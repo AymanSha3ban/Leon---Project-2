@@ -30,10 +30,19 @@ Leon is a modern and minimalistic HTML & CSS web template designed for creative 
 
 
 ## 📸 Screenshots
+![Screenshot](img/Screenshot1.png)
 
 ## 📸 Screenshots
+![Screenshot](img/Screenshot2.png)
 
-![Screenshot](img/Screenshot.png)
+## 📸 Screenshots
+![Screenshot](img/Screenshot3.png)
+
+## 📸 Screenshots
+![Screenshot](img/Screenshot4.png)
+
+## 📸 Screenshots
+![Screenshot](img/Screenshot5.png)
 
 
 ## 💻 Tech Used
